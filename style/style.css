@@ -90,6 +90,10 @@ p {
   color: #22d4fd;
 }
 
+h2 {
+  font-family: "Krona One", sans-serif;
+}
+
 .links a {
   display: flex;
   align-items: center;
